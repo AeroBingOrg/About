@@ -1,2 +1,2 @@
 # About
-We rocket
+We rocket ... rockets are cool 
