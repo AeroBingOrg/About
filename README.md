@@ -5,52 +5,38 @@
 
 
 ## Mission Statement
-[Your mission statement here]
+AeroBing was founded on the dream of launching a student designed & manufactured rocket beyond the Kármán line - the boundary separating Earth’s atmosphere from space (100 km). If we succeed, we will be the second student rocketry team to do so. In our group, we pride ourselves on our commitment to designing and manufacturing virtually everything in-house. To us, it is paramount that each member hones and develops as many engineering-related skills as possible while on the team.
 
-## Our Vision
-[Your vision statement here]
+## Recent Projects
 
-## Current Projects
-
-### Project [Primary Project Name]
-[Description of main space-bound project]
-
-- [Key component 1]
-- [Key component 2]
-- [Key component 3]
-- [Key component 4]
-- [Key component 5]
+- DAQ System and Ground Station
+- Remote Ignition System
+- In-Flight Camera System
+- 4-Layer Flight Computer
+- Flight Computer Ground Station
 
 ## Team Structure
-- **[Team 1]** - [Responsibilities]
-- **[Team 2]** - [Responsibilities]
-- **[Team 3]** - [Responsibilities]
-- **[Team 4]** - [Responsibilities]
-- **[Team 5]** - [Responsibilities]
+- **Mechanical**
+- **Electronics**
+- **Simulations**
+- **Logistics**
 
-## Achievements
-- [Achievement 1]
-- [Achievement 2]
-- [Achievement 3]
+## Recent Achievements
+- 10/3/2026: Successful static fire test for sustainer motor "Camila"
 
 ## Get Involved
-[Recruitment information and how to join]
-
-**Meeting Times:** [Schedule]  
-**Location:** [Location]  
-**Contact:** [Contact info]
+General meetings are held on Wednesday 6:00 PM in Watson Commons and discuss the work done in each subteam.
+Electronic meetings are held on Monday 6:00 PM in E2 in the Fab Lab.
 
 ## Safety First
-[Safety protocols and training information]
+AeroBing is committed to practicing rocketry safely and within the boundaries of the law. We work closely with our advisors, launch sites, and technical personnel to ensure safe practices in our organization and its operations. High power rocketry to space is regulated by the FAA and is legal for civilians. Our radio communications systems conform to FCC guidelines, operating on authorized bands. 
 
 ## Follow Our Journey
-- **Website:** [URL]
-- **Instagram:** [Handle]
-- **YouTube:** [Channel]
-- **LinkedIn:** [Profile]
+- **Website:** https://www.aerobing.org
+- **Instagram:** https://instagram.com/aerobing
+- **YouTube:** https://www.youtube.com/@aerobingrocketryresearchgr4776
+- **LinkedIn:** https://www.linkedin.com/company/aerobing-rocketry-research-group/posts/?feedView=all
 
 ---
 
-*"[Team motto or inspiring quote]"*
-
-**[University Name] | [Department Name]**
+**SUNY Binghamton**
